@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 int main(){
@@ -43,6 +44,4 @@ if(sum > 150){
 
 
 return 0;
-
-    
 }
